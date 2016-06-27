@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Universal Media Player</string>
+    <string name="currently_playing_song">Song currently playing</string>
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+    <string name="play_pause">play or pause</string>
+    <string name="drawer_all_music_title">All Music</string>
+    <string name="drawer_playlists_title">Playlists</string>
+    <string name="play_item">Play item</string>
+    <string name="date_format">yyyy-MM-dd</string>
+</resources>
